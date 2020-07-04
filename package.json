@@ -1,0 +1,23 @@
+{
+  "name": "lesson1",
+  "version": "1.0.1",
+  "description": "Sample node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekasiedu13/lesson.git"
+  },
+  "keywords": [
+    "web",
+    "lesson"
+  ],
+  "author": "Emmanuel Kwame Asiedu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekasiedu/lesson/issues"
+  },
+  "homepage": "https://github.com/ekasiedu/lesson#readme"
+}
